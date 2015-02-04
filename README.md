@@ -15,7 +15,8 @@ Add [Pushbullet](http://pushbullet) as Oauth2 provider to Laravel Socialite
 ## What's next?
 
 - If you want to use Pushbullet as a notification service for your app, here is some cool package:
--- PushBullet-for-PHP by @ivkos : https://github.com/ivkos/PushBullet-for-PHP/tree/master/src
--- PHPushbullet by @joetannenbaum : https://github.com/joetannenbaum/phpushbullet
+
++  PushBullet-for-PHP by @ivkos : https://github.com/ivkos/PushBullet-for-PHP/tree/master/src
++  PHPushbullet by @joetannenbaum : https://github.com/joetannenbaum/phpushbullet
 
 
