@@ -1,2 +1,13 @@
 # pushbullet-laravel-socialite
-Add Pushbullet as Oauth2 provider to Laravel Socialite
+Add [Pushbullet](http://pushbullet) as Oauth2 provider to Laravel Socialite
+
+##Infomation 
+
+- Laravel  Socialite : https://github.com/laravel/socialite
+- How to use Laravel Socialite with Laravel 5 : https://laracasts.com/series/whats-new-in-laravel-5/episodes/9
+
+## How to use Pushbullet as a Oauth2 Provider?
+
+- Create a apps at Pushbullet (Please read Pushbullet documents : https://docs.pushbullet.com/oauth2/)
+- Clone this project and add PushbulletProvider.php into your app. Remember to change its namespace.
+- Read this awesome blog for instruction on [How to add a custom Provider into Laravel Socialite](https://medium.com/@morrislaptop/adding-auth-providers-to-laravel-socialite-ca0335929e42)
