@@ -18,4 +18,6 @@ If you want to use Pushbullet as a notification service for your app, here is so
 +  PushBullet-for-PHP by @ivkos : https://github.com/ivkos/PushBullet-for-PHP/tree/master/src
 +  PHPushbullet by @joetannenbaum : https://github.com/joetannenbaum/phpushbullet
 
+## Others provider
+- Microsoft provider : https://gist.github.com/pfeiferchristopher/0ba09397553b54cd9e8f
 
