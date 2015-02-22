@@ -1,3 +1,5 @@
+#Deprecated , please refer https://github.com/SocialiteProviders
+---
 # pushbullet-laravel-socialite
 Add [Pushbullet](http://pushbullet) as Oauth2 provider to Laravel Socialite
 
